@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm a student. Starting my career in programming. In this profile, 
-you will find my projects and my progress as a develope.
+I'm a student. Starting my career in programming. 
 
 
 
